@@ -6,6 +6,10 @@ I am a recent graduate of cybersecurity with a profound interest in DevSecOps an
 ## Objective
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
+## 👋 About This Repository
+
+This repository documents my skills and projects relevant to my DevSecOps experience as well as my journey of solving **one DevSecOps/DevOps challenge every day**. Tasks are pulled from observations made in tech communities and on social media
+
 ## Skills
 
 | Skill                                         | Associated Project         |
@@ -17,28 +21,6 @@ My journey in computer science has led me to develop a passion for cybersecurity
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 |Cryptography and secure protocol analysis|<a href="https://github.com/yechiipeng/messaging_app_threat_analysis">Messaging App Threat Analysis</a>|
-## Tools
-
-
-### Network
-<div>
-    <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Suricata-EF3B2D?&style=for-the-badge&logo=Suricata&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" />
-</div>
-
-### Endpoint
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
-</div>
-
-### SIEM
-<div>
-    <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div>
 
 # 🚀 DevSecOps Daily Challenges
 
@@ -50,18 +32,14 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 ---
 
-## 👋 About This Repository
-
-This repository documents my journey of solving **one DevSecOps/DevOps challenge every day**. 
+ 
 
 **Mission:** Build practical, hands-on expertise in DevSecOps tools, techniques, and best practices through daily problem-solving and documentation.
 
 **Why Daily Challenges?**
-- 📚 Learn by doing, not just reading
-- 💪 Build consistent GitHub activity
-- 🎯 Create a portfolio of real-world solutions
-- 🔄 Develop muscle memory for common problems
-- 🌟 Stand out to recruiters and hiring managers
+- It allows me to learn by doing, not just reading and tutorials
+- Create a portfolio and documented methodology for creating real-world solutions
+- Develop muscle memory for common problems organisations face
 
 ---
 
@@ -267,8 +245,8 @@ Feel free to open an issue or submit a PR!
 ## 🌟 Challenge Sources
 
 **Where I find daily challenges:**
-- 🐦 Twitter: @DevOpsProbs, @CloudSecOps, @KubernetesDaily
-- 📱 Reddit: r/devops, r/kubernetes, r/docker, r/aws
+- 🐦 X
+- 📱 Reddit
 - 🌐 HackerNews, Dev.to, Medium
 - 💼 Real-world work problems (anonymized)
 - 📚 Certification study materials
@@ -279,16 +257,15 @@ Feel free to open an issue or submit a PR!
 
 I'm actively learning and growing in the DevSecOps space. Let's connect!
 
-- **LinkedIn:** [Your Profile](your-linkedin-url)
-- **Twitter:** [@YourHandle](your-twitter-url)
-- **Email:** your.email@example.com
-- **Blog:** [Your Blog](your-blog-url) *(optional)*
+- **LinkedIn:** [To-Jehova Ajero](www.linkedin.com/in/to-jehova-ajero-727196169)
+- **Email:** tjajero@gmail.com
+
 
 **Open to:**
-- 🤝 Collaboration on DevSecOps projects
-- 💼 Entry-level DevSecOps opportunities
-- 📚 Learning together and sharing resources
-- 🗣️ Discussions about best practices
+-  Collaboration on DevSecOps projects
+-  Entry-level DevSecOps opportunities
+-  Learning together and sharing resources
+-  Discussions about best practices
 
 ---
 
@@ -300,26 +277,4 @@ I'm actively learning and growing in the DevSecOps space. Let's connect!
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=tokyonight&hide_border=true)
 
----
 
-## 📄 License
-
-This repository is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-<div align="center">
-
-## ⭐ If you find this helpful, please star the repository! ⭐
-
-### "The only way to do great work is to love what you do." - Steve Jobs
-
-**Building in public, learning every day.** 🚀
-
-*Last Updated: January 29, 2026*
-
-</div>
-
-## Projects
-- Detection Lab
-- SOC Automation Project
